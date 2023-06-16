@@ -1,0 +1,6 @@
+The Easiest way to approach number series questions is to observe the difference between the various  terms. Here are some methods and tips you can use to solve number series questions:
+If you observe carefully a constant difference between the different numbers, it means that the question belongs to the series with a constant degree category. 
+If you observed carefully the difference between the various numbers it is either increasing or decreasing, then the question belongs to either the series with an increasing difference or the series with decreasing difference respectively. 
+In case, you are not able to spot an increasing or decreasing difference between the numbers, try to divide the 2nd term of the series with the first, the 2nd term with the 3rd term and so on. If the answer to the constant division comes as the same number, then this question belongs to the product series. 
+In case, none of the above approach works, you can write every term of the question as to the multiplication of 2 factors and try to spot a pattern between the terms. 
+If you are not able to spot a pattern and the difference between the terms is decreasing or increasing at an accelerated rate, you can try for the square/cube series. 
